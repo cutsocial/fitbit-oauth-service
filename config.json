@@ -1,6 +1,6 @@
 {
-  "clientID":"23RCXX",
-  "clientSecret":"8459c6a6ee8ebe70fbfaf71c6c9e7eb5",
+  "clientID":"23RDRW",
+  "clientSecret":"e5da5738669eeb8d75fbb39ff3a690b4",
   "redirectURI": "https://fbui-react.web.app/auth/fitbit_callback",
   "codeState": "1987213zasdlkfhjlk123"
 }
